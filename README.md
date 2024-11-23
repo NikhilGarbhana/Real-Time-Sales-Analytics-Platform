@@ -299,8 +299,14 @@ Write SQL queries to generate insights:
 
 2. **Key Charts**:
    - **Sales Over Time**: Line chart showing revenue trends.
+     ![image](https://github.com/user-attachments/assets/c351e40a-99e9-480b-918f-a31d8a0b8064)
+
    - **Top Customers**: Bar chart of customers by revenue.
+     ![image](https://github.com/user-attachments/assets/2318cefa-6f66-4e0c-9efc-2277e5a34c0c)
+
    - **Inventory Levels**: Stacked bar chart showing stock per product category.
+     ![image](https://github.com/user-attachments/assets/b4dd5781-fe44-44ad-b2f1-9177648838b0)
+
 
 ---
 
